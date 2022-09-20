@@ -4,4 +4,4 @@ I jsut commited to something
 
 ## SubHeader
 This is my other change
-this is acommit from vscode
+this is a commit from vscode
